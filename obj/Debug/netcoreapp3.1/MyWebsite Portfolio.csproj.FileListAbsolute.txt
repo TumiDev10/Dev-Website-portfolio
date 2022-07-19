@@ -1,0 +1,37 @@
+C:\Users\Tumi\source\repos\MyWebsite Portfolio\MyWebsite Portfolio\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Tumi\source\repos\MyWebsite Portfolio\MyWebsite Portfolio\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Tumi\source\repos\MyWebsite Portfolio\MyWebsite Portfolio\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Tumi\source\repos\MyWebsite Portfolio\MyWebsite Portfolio\bin\Debug\netcoreapp3.1\MyWebsite Portfolio.exe
+C:\Users\Tumi\source\repos\MyWebsite Portfolio\MyWebsite Portfolio\bin\Debug\netcoreapp3.1\MyWebsite Portfolio.deps.json
+C:\Users\Tumi\source\repos\MyWebsite Portfolio\MyWebsite Portfolio\bin\Debug\netcoreapp3.1\MyWebsite Portfolio.runtimeconfig.json
+C:\Users\Tumi\source\repos\MyWebsite Portfolio\MyWebsite Portfolio\bin\Debug\netcoreapp3.1\MyWebsite Portfolio.runtimeconfig.dev.json
+C:\Users\Tumi\source\repos\MyWebsite Portfolio\MyWebsite Portfolio\bin\Debug\netcoreapp3.1\MyWebsite Portfolio.dll
+C:\Users\Tumi\source\repos\MyWebsite Portfolio\MyWebsite Portfolio\bin\Debug\netcoreapp3.1\MyWebsite Portfolio.pdb
+C:\Users\Tumi\source\repos\MyWebsite Portfolio\MyWebsite Portfolio\bin\Debug\netcoreapp3.1\MyWebsite Portfolio.Views.dll
+C:\Users\Tumi\source\repos\MyWebsite Portfolio\MyWebsite Portfolio\bin\Debug\netcoreapp3.1\MyWebsite Portfolio.Views.pdb
+C:\Users\Tumi\source\repos\MyWebsite Portfolio\MyWebsite Portfolio\obj\Debug\netcoreapp3.1\MyWebsite Portfolio.csprojAssemblyReference.cache
+C:\Users\Tumi\source\repos\MyWebsite Portfolio\MyWebsite Portfolio\obj\Debug\netcoreapp3.1\MyWebsite Portfolio.AssemblyInfoInputs.cache
+C:\Users\Tumi\source\repos\MyWebsite Portfolio\MyWebsite Portfolio\obj\Debug\netcoreapp3.1\MyWebsite Portfolio.AssemblyInfo.cs
+C:\Users\Tumi\source\repos\MyWebsite Portfolio\MyWebsite Portfolio\obj\Debug\netcoreapp3.1\MyWebsite Portfolio.csproj.CoreCompileInputs.cache
+C:\Users\Tumi\source\repos\MyWebsite Portfolio\MyWebsite Portfolio\obj\Debug\netcoreapp3.1\MyWebsite Portfolio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tumi\source\repos\MyWebsite Portfolio\MyWebsite Portfolio\obj\Debug\netcoreapp3.1\MyWebsite Portfolio.RazorAssemblyInfo.cache
+C:\Users\Tumi\source\repos\MyWebsite Portfolio\MyWebsite Portfolio\obj\Debug\netcoreapp3.1\MyWebsite Portfolio.RazorAssemblyInfo.cs
+C:\Users\Tumi\source\repos\MyWebsite Portfolio\MyWebsite Portfolio\obj\Debug\netcoreapp3.1\MyWebsite Portfolio.TagHelpers.input.cache
+C:\Users\Tumi\source\repos\MyWebsite Portfolio\MyWebsite Portfolio\obj\Debug\netcoreapp3.1\MyWebsite Portfolio.TagHelpers.output.cache
+C:\Users\Tumi\source\repos\MyWebsite Portfolio\MyWebsite Portfolio\obj\Debug\netcoreapp3.1\MyWebsite Portfolio.RazorCoreGenerate.cache
+C:\Users\Tumi\source\repos\MyWebsite Portfolio\MyWebsite Portfolio\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Tumi\source\repos\MyWebsite Portfolio\MyWebsite Portfolio\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Tumi\source\repos\MyWebsite Portfolio\MyWebsite Portfolio\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Tumi\source\repos\MyWebsite Portfolio\MyWebsite Portfolio\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Tumi\source\repos\MyWebsite Portfolio\MyWebsite Portfolio\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Tumi\source\repos\MyWebsite Portfolio\MyWebsite Portfolio\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Tumi\source\repos\MyWebsite Portfolio\MyWebsite Portfolio\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Tumi\source\repos\MyWebsite Portfolio\MyWebsite Portfolio\obj\Debug\netcoreapp3.1\MyWebsite Portfolio.RazorTargetAssemblyInfo.cache
+C:\Users\Tumi\source\repos\MyWebsite Portfolio\MyWebsite Portfolio\obj\Debug\netcoreapp3.1\MyWebsite Portfolio.RazorTargetAssemblyInfo.cs
+C:\Users\Tumi\source\repos\MyWebsite Portfolio\MyWebsite Portfolio\obj\Debug\netcoreapp3.1\MyWebsite Portfolio.Views.pdb
+C:\Users\Tumi\source\repos\MyWebsite Portfolio\MyWebsite Portfolio\obj\Debug\netcoreapp3.1\staticwebassets\MyWebsite Portfolio.StaticWebAssets.Manifest.cache
+C:\Users\Tumi\source\repos\MyWebsite Portfolio\MyWebsite Portfolio\obj\Debug\netcoreapp3.1\staticwebassets\MyWebsite Portfolio.StaticWebAssets.xml
+C:\Users\Tumi\source\repos\MyWebsite Portfolio\MyWebsite Portfolio\obj\Debug\netcoreapp3.1\MyWebsite Portfolio.dll
+C:\Users\Tumi\source\repos\MyWebsite Portfolio\MyWebsite Portfolio\obj\Debug\netcoreapp3.1\MyWebsite Portfolio.pdb
+C:\Users\Tumi\source\repos\MyWebsite Portfolio\MyWebsite Portfolio\obj\Debug\netcoreapp3.1\MyWebsite Portfolio.genruntimeconfig.cache
+C:\Users\Tumi\source\repos\MyWebsite Portfolio\MyWebsite Portfolio\obj\Debug\netcoreapp3.1\MyWebsite Portfolio.csproj.CopyComplete
